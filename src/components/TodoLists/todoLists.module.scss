@@ -1,0 +1,52 @@
+.liNotCompleted {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 94%;
+    background-color: #c5e1e6;
+    min-height: 40px;
+    margin-bottom: 15px;
+    margin-left: -10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #939697;
+    list-style: none;
+    word-break: break-all;
+    user-select: none;
+}
+
+.liCompleted {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 94%;
+    background-color: rgb(126, 252, 126);
+    min-height: 40px;
+    margin-bottom: 15px;
+    margin-left: -10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #939697; 
+    list-style: none;
+    word-break: break-all;
+    text-decoration-line: line-through;
+    user-select: none;
+    box-shadow: 0 0 0.6rem rgb(4, 241, 4);
+}
+
+
+
+.iconSpan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    width: 40px;
+    height: 35px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.icon {
+    color: white
+}

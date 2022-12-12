@@ -1,0 +1,38 @@
+input {
+    width: 55%;
+    height: 15px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: 2px solid #d1d3d4;
+    padding: 12px;
+    color: #111111;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 22%;
+    height: 40px;
+    margin-left: 30px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #0d75ec;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+.error {
+    width: 60%;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-style: oblique;
+    box-shadow: 0 0 0.6rem #ff0000;
+
+}
